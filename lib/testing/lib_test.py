@@ -9,6 +9,8 @@ import sys
 
 class TestGreetProgrammer:
     '''function greet_programmer()'''
+def greet_programmer():
+    print
 
     def test_greet_programmer(self):
         '''prints "Hello, programmer!"'''
